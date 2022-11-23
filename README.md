@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **agukk/agukk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,5 +14,4 @@ Here are some ideas to get you started:
 -->
 
 [![agukk's GitHub stats](https://github-readme-stats.vercel.app/api?username=agukk&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/agukk/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agukk&layout=compact)](https://github.com/agukk/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agukk&layout=compact&theme=tokyonight)](https://github.com/agukk/github-readme-stats)
